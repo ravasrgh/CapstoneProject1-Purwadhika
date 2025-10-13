@@ -11,3 +11,4 @@ seperti export ke CSV, filter data, dan statistik karyawan.
 4. DELETE - Menghapus data karyawan dengan backup otomatis
 5. EXPORT - Menyimpan data ke file CSV
 6. STATISTIK - Menampilkan analisis data karyawan
+7. FILTER - Menampilkan data karyawan sesuai filter yang telah dibuat
